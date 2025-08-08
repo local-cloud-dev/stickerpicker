@@ -1,0 +1,9 @@
+{
+  "homeserver_url": "https://example.com",
+  "packs": [
+    "CloudiaSheep.json",
+    "Crocosaurus.json",
+    "LoveHamsters.json",
+    "PinkMarshmallow.json"
+  ]
+}
